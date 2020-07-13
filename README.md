@@ -1,4 +1,4 @@
-# USer Stories
+# User Stories
 
 Register User 
 As a guest user I want to be able to register so that I can become authenticated and will be able to further use the API
